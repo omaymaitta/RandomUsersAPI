@@ -1,63 +1,16 @@
-# Random Users 
+# flutterapp5
 
-A new Flutter Random Users Details using randomuser.me api.
+A new Flutter application.
 
 ## Getting Started
 
-It is an Random users details with some cool UI, Details of users are fetched from https://randomuser.me/.
+This project is a starting point for a Flutter application.
 
-This application is created with State Management (Provider).
+A few resources to get you started if this is your first Flutter project:
 
-Application without State Managenent [click here](https://github.com/bharatagsrwal/random-users-details/tree/withoutProvider) or checkout **withoutProvider** branch
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-### Show some :heart: and star the repo to support the project. 
-For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://twitter.com/bharatagsrwal) or @[Website](https://iambharat.me) @[Medium](https://medium.com/@agarwalbharat68/)
-
-### I :heart: Flutter 
-
-### Screenshots
-
-<img src="/screenshots/1.png" height="300em" /> <img src="/screenshots/2.png" height="300em" /> <img src="/screenshots/3.png" height="300em" /> <img src="/screenshots/4.png" height="300em" /><br>
-### GIF
-`Please wait for GIF to load`<br><br>
-<img src="/screenshots/random_users.gif">
-
-# Pull Requests
-
-I welcome and encourage all pull requests. It usually will take me within 10-21 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
-
-1.  Match coding style (braces, spacing, etc.) This is best achieved using `Reformat Code` feature of Android Studio `CMD`+`Option`+`L` on Mac and `CTRL` + `ALT` + `L` on Linux + Windows .
-2.  If its a feature, bugfix, or anything please only change code to what you specify.
-3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
-4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/bharatagsrwal/random-users-details/issues) first, before filing an issue.
-6.  Make sure you follow the set standard as all other projects in this repo do
-7.  Have fun!
-
-# 👍 Contribution
-1. Fork it
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -m 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create new Pull Request
-
-
-### Created By
-
-[Github](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Medium](https://medium.com/@agarwalbharat68/))
-([Bharat Agarwal](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
-
-## More
-Have any Idea, you can tell me or can contribute in this repo.
-
-### iOS implementation
-
-This project is not implemented on ios yet. Beacuse I own Windows 10 PC Only.
-
-### Android implementation
-This Project is implemented in `android` `9.0` and `8.0` in `Pixel 2` and `Redmi Note 5 (64/4GB)`.
-
-## Facing Any Problem or need any Help?
-Write me in [issues](https://github.com/bharatagsrwal/random-users-details/issues) section. I will try solve your issue within 10-12 hours.
-### Keep Fluttering.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
