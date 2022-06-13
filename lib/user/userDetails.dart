@@ -22,12 +22,6 @@ class Details extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final double responsive = MediaQuery.of(context).size.height;
-    /*    new Container(
-                  padding: EdgeInsets.only(
-                      top: responsive * 0.2,
-                      left: MediaQuery.of(context).size.width * 0.85),
-
-                )*/
     return Consumer<UserState>(
       builder: (context,userState,_)=>Scaffold(
         appBar: new AppBar(
